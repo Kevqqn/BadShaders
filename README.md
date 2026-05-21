@@ -8,3 +8,8 @@ Although no music yet.
 
 
 <img width="1363" height="711" alt="image" src="https://github.com/user-attachments/assets/9c29cbbd-9c9c-4b3c-a3d7-c3ecfbc8cf21" />
+
+
+Thanks to RRe36 as this shaders is made by looking up how Kappa clouds is implemented as a reference.
+
+P.S: This is a side project I made to cure animation burn out 🙏
