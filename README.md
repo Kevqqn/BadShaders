@@ -2,7 +2,7 @@ A very scuffed and unoptimized (Literally BadShaders) Minecraft shaders for the 
 
 If you want to try this, have this in your Minecraft shaderpacks folder, use Minecraft 1.21.3, Sodium + Iris.
 
-In-game, look up and hide you HUD (F1), then it plays. 
+In-game, look up and hide your HUD (F1), then it plays. 
 
 Although no music yet.
 
